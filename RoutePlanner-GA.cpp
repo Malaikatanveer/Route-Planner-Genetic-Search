@@ -5,7 +5,6 @@ using namespace std;
 
 
 
-//the functioing of the algorithm along with graph conversion has been taken from an online source
 const int MAXN = 1000;
 
 // Define the node class
